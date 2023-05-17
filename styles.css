@@ -162,6 +162,9 @@ footer li{
         position: relative;
         top: 80px;
     }
+    footer{
+        top: 150px;
+    }
 }
 @media (max-width: 600px){
     header{
