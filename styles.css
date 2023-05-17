@@ -187,4 +187,7 @@ footer li{
     #copyright{
         left: 40%
     }
+    footer{
+        top: 170px;
+    }
 }
